@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Cubo
   - piso
+  - Piso2
   layers:
   - Default
   - TransparentFX
